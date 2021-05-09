@@ -9,7 +9,7 @@
 1. core-js v3.12.0
 2. vue v3.0.11
 
-### Dependencias en ambiento de desarrdicollo
+### Dependencias en ambiente de desarrollo
 1. babel-eslint
 2. eslint
 3. eslint-plugin-vue
@@ -37,12 +37,12 @@ Para poder correr el proyecto de forma local necesitas tener instalado:
 ![](https://i.imgur.com/K51PTFY.gif)
 
 
-## Analisis
+## Análisis
 ![](https://i.imgur.com/yiokLaf.png)
 
 https://miro.com/app/board/o9J_lFEkCCg=/
 
 
-## Cuantas caras puede tener un dado?
+## ¿Cuántas caras puede tener un dado?
 Este juego esta basado en el numero de caras de un dado de equilibrio, pero puedes ingresar hasta un maximo de 20 caras que es la cantidad de caras que puede llegar a tener un poliedro regular.
 [Lectura sobre los dados] https://es.wikipedia.org/wiki/Dado
