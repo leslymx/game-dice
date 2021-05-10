@@ -10,10 +10,13 @@
     ```
     npm run serve
     ```
-Lo que te indicara que puedes ir a tu local y abrir esa ip para ver el proyecto
     
-    ![](https://i.imgur.com/8Bj8HKi.png)
 3. Si haz hecho todo correctamente te aparecera esta vista en consola y puedes entrar a tu dirección local
+  
+![](https://i.imgur.com/8Bj8HKi.png)
+
+### Vista en local
+
 ![](https://i.imgur.com/KBhiY5i.png)
 
 ### Plugins usados
